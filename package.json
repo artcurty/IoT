@@ -1,0 +1,16 @@
+{
+  "name": "GLPMonitoring",
+  "version": "1",
+  "description": "Monitoramento de vazamento de gás GLP",
+  "main": "indes.js",
+  "repository": "git@github.com:CurtyY/IoT.git",
+  "author": "Arthur Curty <artcurty@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}

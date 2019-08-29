@@ -22,7 +22,7 @@ Assim como o Gás Natural, o GLP deve ser [manipulado corretamente](https://www.
 - Industrial
 - Agrícola
 
-#### Perigos
+##### Perigos
 
 Os perigos mais comuns associados ao gás de cozinha incluem explosões, fogo e inalação.
 
@@ -43,6 +43,7 @@ Sintomas caso a inalação ocorra:
 - Tontura;
 - Colapso e perda de consciência.
 
-####  Solução
+#####  Solução
 
 Devido a dificuldade na percepção do vazamento, a proposta é utilizando um sensor de gás, monitorar o ambiente de possível vazamento e alertar em tempo real o usuário, se houver qualquer variação de gás. Para que possa chamar ajuda, e até mesmo tomar cuidado ao entrar no local para desligar a botija. 
+
