@@ -15,7 +15,7 @@ function Alerta()
 {    
     var params = {
         Message: '[TESTE IoT] ALERTA!!! Um vazamento de gás foi detectado',
-        PhoneNumber: '+' + '5583998047024',
+        PhoneNumber: '+' + '[NUMERO DE CELULAR]',
         MessageAttributes: {
             'AWS.SNS.SMS.SenderID': {
                 'DataType': 'String',
